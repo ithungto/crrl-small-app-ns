@@ -1,0 +1,39 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "61,13,810,528"
+
+[AB_Cache_{83F00BF5-C5B9-4AA7-831C-F55955A17E0A}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "73035da2003b3f0469b55d6ffb578425"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/D/2011_Projects/Couger/RTK gps string captu"
+Cache_GenFile[0][Path] Line0002 = "re for Couger/builds/COM_2_TXT.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/2011_Projects/Couger/RTK gps string captu"
+Cache_GenFile[1][Path] Line0002 = "re for Couger/builds/COM_2_TXT.aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/2011_Projects/Couger/RTK gps string captu"
+Cache_GenFile[2][Path] Line0002 = "re for Couger/builds/COM_2_TXT.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{9C5919DF-9890-4BF3-B5D6-7B519D958BCE}"
+Cache_GenGUID[1][String] = "{B8897EFF-BFF9-4933-93E6-653DE7FE446F}"
+Cache_GenGUID[2][String] = "{28CD4BD3-789A-4A21-AAAA-0D5770FF222D}"
+Cache_OutputDir[Path] Line0001 = "/D/2011_Projects/Couger/RTK gps string captur"
+Cache_OutputDir[Path] Line0002 = "e for Couger/builds"
+
+[AB_Cache_{F476E1A9-63C3-452A-A155-9C7A6F47C665}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "3312abdd8d229e18a235f4f4ba5ebd0e"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/D/2011_Projects/Couger/RTK gps string captu"
+Cache_GenFile[0][Path] Line0002 = "re for Couger/builds/COM_2_TXT.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/2011_Projects/Couger/RTK gps string captu"
+Cache_GenFile[1][Path] Line0002 = "re for Couger/builds/COM_2_TXT.aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/2011_Projects/Couger/RTK gps string captu"
+Cache_GenFile[2][Path] Line0002 = "re for Couger/builds/COM_2_TXT.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{9C5919DF-9890-4BF3-B5D6-7B519D958BCE}"
+Cache_GenGUID[1][String] = "{B8897EFF-BFF9-4933-93E6-653DE7FE446F}"
+Cache_GenGUID[2][String] = "{28CD4BD3-789A-4A21-AAAA-0D5770FF222D}"
+Cache_OutputDir[Path] Line0001 = "/D/2011_Projects/Couger/RTK gps string captur"
+Cache_OutputDir[Path] Line0002 = "e for Couger/builds"
+
