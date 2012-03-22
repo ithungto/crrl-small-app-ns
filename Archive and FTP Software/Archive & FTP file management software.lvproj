@@ -20,14 +20,14 @@
 		<Item Name="Help Docs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Node Archive and FTP Help Doc_files" Type="Folder">
-				<Item Name="colorschememapping.xml" Type="Document" URL="/C/Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/colorschememapping.xml"/>
-				<Item Name="filelist.xml" Type="Document" URL="/C/Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/filelist.xml"/>
-				<Item Name="Logo.png" Type="Document" URL="/C/Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/Logo.png"/>
-				<Item Name="tabone.png" Type="Document" URL="/C/Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/tabone.png"/>
-				<Item Name="tabtwo.png" Type="Document" URL="/C/Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/tabtwo.png"/>
-				<Item Name="themedata.thmx" Type="Document" URL="/C/Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/themedata.thmx"/>
+				<Item Name="colorschememapping.xml" Type="Document" URL="../../../../Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/colorschememapping.xml"/>
+				<Item Name="filelist.xml" Type="Document" URL="../../../../Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/filelist.xml"/>
+				<Item Name="Logo.png" Type="Document" URL="../../../../Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/Logo.png"/>
+				<Item Name="tabone.png" Type="Document" URL="../../../../Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/tabone.png"/>
+				<Item Name="tabtwo.png" Type="Document" URL="../../../../Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/tabtwo.png"/>
+				<Item Name="themedata.thmx" Type="Document" URL="../../../../Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc_files/themedata.thmx"/>
 			</Item>
-			<Item Name="Node Archive and FTP Help Doc.htm" Type="Document" URL="/C/Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc.htm"/>
+			<Item Name="Node Archive and FTP Help Doc.htm" Type="Document" URL="../../../../Program Files/Node Archive and FTP File Handler Software/Help doc/Node Archive and FTP Help Doc.htm"/>
 		</Item>
 		<Item Name="Sub VI&apos;s" Type="Folder">
 			<Item Name="Action Engine Shutdown.vi" Type="VI" URL="../../GPS String Capture Software/Action Engine Shutdown.vi"/>
@@ -150,11 +150,7 @@
 				<Item Name="Validate Semaphore Size.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Validate Semaphore Size.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="File Management.ctl" Type="VI" URL="../SubVIs/File Management.ctl"/>
-			<Item Name="File Path directories.ctl" Type="VI" URL="../SubVIs/File Path directories.ctl"/>
-			<Item Name="FTP Credintials.ctl" Type="VI" URL="../SubVIs/FTP Credintials.ctl"/>
 			<Item Name="NewNI_SMTPEmail.lvlib" Type="Library" URL="../NewNI_SMTPEmail.lvlib"/>
-			<Item Name="Ping address and email notify.ctl" Type="VI" URL="../SubVIs/Ping address and email notify.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="File Archive and FTP (build 3.0)" Type="EXE">
@@ -179,7 +175,7 @@
 				<Property Name="Destination[1].path" Type="Path">../Node Archive FTP/Builds/version 3.0/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Archive &amp; FTP.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{83BDF132-F6D3-4E6B-80BB-645E1BA1BB19}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E2A6CF78-8EF7-4BEC-AD6F-7D01DE22BAF9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main VI FTP FILE MANAGER.vi</Property>
@@ -218,6 +214,7 @@
 				<Property Name="Destination[2].parent" Type="Str">{949400CF-3824-4094-B7BB-F021148774DE}</Property>
 				<Property Name="Destination[2].tag" Type="Str">{8A96E9B2-684B-474E-8E96-C0FB9172A5D3}</Property>
 				<Property Name="Destination[2].type" Type="Str">userFolder</Property>
+				<Property Name="Destination[2].unlock" Type="Bool">true</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="DistPart[0].flavorID" Type="Str">DefaultFull</Property>
 				<Property Name="DistPart[0].productID" Type="Str">{066F687E-1CA0-4D94-A2C9-F8E6E817F4CB}</Property>

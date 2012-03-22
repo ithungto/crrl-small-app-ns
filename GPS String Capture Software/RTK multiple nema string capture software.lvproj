@@ -28,10 +28,10 @@
 			<Item Name="hours between scans.vi" Type="VI" URL="../hours between scans.vi"/>
 			<Item Name="latlongtoUTM.vi" Type="VI" URL="../latlongtoUTM.vi"/>
 			<Item Name="Nema GPGGA string to UTM and time.vi" Type="VI" URL="../Nema GPGGA string to UTM and time.vi"/>
-			<Item Name="ParseNEAMAString.vi" Type="VI" URL="../ParseNEAMAString.vi"/>
+			<Item Name="ParseNEAMAString.vi" Type="VI" URL="../Edit Raw String capture files to Daily CSV formats/ParseNEAMAString.vi"/>
 			<Item Name="RoundToNearestbath.vi" Type="VI" URL="../RoundToNearestbath.vi"/>
 			<Item Name="RTK last 10 nema returns.vi" Type="VI" URL="../RTK last 10 nema returns.vi"/>
-			<Item Name="UTMConversion.vi" Type="VI" URL="../UTMConversion.vi"/>
+			<Item Name="UTMConversion.vi" Type="VI" URL="../Edit Raw String capture files to Daily CSV formats/UTMConversion.vi"/>
 			<Item Name="Visa to File.vi" Type="VI" URL="../Visa to File.vi"/>
 			<Item Name="last 10 values as an action engine.vi" Type="VI" URL="../last 10 values as an action engine.vi"/>
 		</Item>
@@ -89,6 +89,7 @@
 			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="visarc" Type="Document" URL="../../../../Program Files/National Instruments/LabVIEW 2011/resource/visarc"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="COM Port Capture to txt software (build 3.1)" Type="EXE">
