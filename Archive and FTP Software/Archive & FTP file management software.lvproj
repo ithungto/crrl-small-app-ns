@@ -196,7 +196,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">USGS-CRRL</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">File Archive and FTP (build 3.1)</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">7</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">11</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">3</Property>
 				<Property Name="TgtF_fileVersion.patch" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">File Archive and FTP (build 3.1)</Property>
@@ -234,7 +234,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">File Archive and FTP Handler (build 3.1) installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{8A96E9B2-684B-474E-8E96-C0FB9172A5D3}</Property>
 				<Property Name="INST_productName" Type="Str">File Archive and FTP  Management software</Property>
-				<Property Name="INST_productVersion" Type="Str">3.1.6</Property>
+				<Property Name="INST_productVersion" Type="Str">3.1.10</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">11008029</Property>
 				<Property Name="MSI_arpCompany" Type="Str">USGS-CRRL</Property>
