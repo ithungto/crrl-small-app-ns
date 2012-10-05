@@ -26,6 +26,7 @@
 			<Item Name="temp create RCVR files.vi" Type="VI" URL="../temp create RCVR files.vi"/>
 			<Item Name="TimedMessageToUser.vi" Type="VI" URL="../TimedMessageToUser.vi"/>
 		</Item>
+		<Item Name="GPS Type.vi" Type="VI" URL="../GPS Type.vi"/>
 		<Item Name="temp icon.ico" Type="Document" URL="../temp icon.ico"/>
 		<Item Name="udp read.vi" Type="VI" URL="../udp read.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
