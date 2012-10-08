@@ -18,6 +18,7 @@
 			<Item Name="AudibleAlarm.vi" Type="VI" URL="../../GPS String Capture Software/AudibleAlarm.vi"/>
 			<Item Name="BreakNemaIntoRecordsPerPoint.vi" Type="VI" URL="../BreakNemaIntoRecordsPerPoint.vi"/>
 			<Item Name="CreateWarningMessagesToNotify.vi" Type="VI" URL="../CreateWarningMessagesToNotify.vi"/>
+			<Item Name="GPS Type.vi" Type="VI" URL="../GPS Type.vi"/>
 			<Item Name="IP array list.vi" Type="VI" URL="../../GPS String Capture Software/IP array list.vi"/>
 			<Item Name="IP RTK status Indicator.ctl" Type="VI" URL="../../GPS String Capture Software/IP RTK status Indicator.ctl"/>
 			<Item Name="IpInputFromUser.vi" Type="VI" URL="../IpInputFromUser.vi"/>
@@ -26,7 +27,6 @@
 			<Item Name="temp create RCVR files.vi" Type="VI" URL="../temp create RCVR files.vi"/>
 			<Item Name="TimedMessageToUser.vi" Type="VI" URL="../TimedMessageToUser.vi"/>
 		</Item>
-		<Item Name="GPS Type.vi" Type="VI" URL="../GPS Type.vi"/>
 		<Item Name="temp icon.ico" Type="Document" URL="../temp icon.ico"/>
 		<Item Name="udp read.vi" Type="VI" URL="../udp read.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -179,7 +179,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">TMP UDP 2 TXT</Property>
 				<Property Name="INST_defaultDir" Type="Str">{5091DB55-2C83-43A4-8104-B1B791615A58}</Property>
 				<Property Name="INST_productName" Type="Str">Temp UDP Packet Capture software</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.5</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.6</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">11008029</Property>
 				<Property Name="MSI_arpCompany" Type="Str">3d</Property>
