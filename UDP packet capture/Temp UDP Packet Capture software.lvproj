@@ -111,8 +111,8 @@
 			</Item>
 			<Item Name="Elapsed Timer (seconds).vi" Type="VI" URL="../Elapsed Timer (seconds).vi"/>
 			<Item Name="hours between scans.vi" Type="VI" URL="../../GPS String Capture Software/hours between scans.vi"/>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../../../Program Files/National Instruments/LabVIEW 2011/resource/lvanlys.dll"/>
-			<Item Name="lvsound2.dll" Type="Document" URL="../../../../Program Files/National Instruments/LabVIEW 2011/resource/lvsound2.dll"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/C/Program Files/National Instruments/LabVIEW 2011/resource/lvanlys.dll"/>
+			<Item Name="lvsound2.dll" Type="Document" URL="/C/Program Files/National Instruments/LabVIEW 2011/resource/lvsound2.dll"/>
 			<Item Name="NewNI_SMTPEmail.lvlib" Type="Library" URL="../../Archive and FTP Software/NewNI_SMTPEmail.lvlib"/>
 			<Item Name="Online Status through Ping.vi" Type="VI" URL="../../Archive and FTP Software/SubVIs/Online Status through Ping.vi"/>
 			<Item Name="Ping address and email notify.ctl" Type="VI" URL="../../Archive and FTP Software/Controls/Ping address and email notify.ctl"/>
@@ -136,7 +136,7 @@
 				<Property Name="DistPart[0].upgradeCode" Type="Str">{6AD6C111-233B-4924-A3BF-E4813FE23C7A}</Property>
 				<Property Name="DistPartCount" Type="Int">1</Property>
 				<Property Name="INST_author" Type="Str">3d</Property>
-				<Property Name="INST_buildLocation" Type="Path">../UDP packet capture/Builds</Property>
+				<Property Name="INST_buildLocation" Type="Path">../UDP packet capture/builds</Property>
 				<Property Name="INST_buildLocation.type" Type="Str">relativeToCommon</Property>
 				<Property Name="INST_buildSpecName" Type="Str">UDP 2 TXT</Property>
 				<Property Name="INST_defaultDir" Type="Str">{5091DB55-2C83-43A4-8104-B1B791615A58}</Property>
@@ -188,7 +188,7 @@
 				<Property Name="Bld_buildSpecName" Type="Str">UDP Packet Capture </Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../UDP packet capture/Builds</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../UDP packet capture/builds</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D7681EC4-22A8-4AE6-A198-E0918E490A43}</Property>
@@ -202,7 +202,7 @@
 				<Property Name="Destination[1].path" Type="Path">../UDP packet capture/Builds/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/temp icon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{DBB10818-74B3-4FD7-811C-A24BCF1D7754}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4568AF55-17BF-4289-A431-BC25759AC17A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/udp read.vi</Property>
