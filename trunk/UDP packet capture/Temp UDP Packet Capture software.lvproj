@@ -23,6 +23,7 @@
 			<Item Name="IP RTK status Indicator.ctl" Type="VI" URL="../../GPS String Capture Software/IP RTK status Indicator.ctl"/>
 			<Item Name="IpInputFromUser.vi" Type="VI" URL="../IpInputFromUser.vi"/>
 			<Item Name="Notification List entry.vi" Type="VI" URL="../Notification List entry.vi"/>
+			<Item Name="PromptSetup.vi" Type="VI" URL="../PromptSetup.vi"/>
 			<Item Name="RtkNemaStats.vi" Type="VI" URL="../RtkNemaStats.vi"/>
 			<Item Name="RunStatsForIndividualIpAddresses.vi" Type="VI" URL="../RunStatsForIndividualIpAddresses.vi"/>
 			<Item Name="temp create RCVR files.vi" Type="VI" URL="../temp create RCVR files.vi"/>
@@ -30,6 +31,7 @@
 		</Item>
 		<Item Name="temp icon.ico" Type="Document" URL="../temp icon.ico"/>
 		<Item Name="udp read.vi" Type="VI" URL="../udp read.vi"/>
+		<Item Name="UDPIcon.ico" Type="Document" URL="../UDPIcon.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="_ArrWfmsTo1DInterleave.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/_ArrWfmsTo1DInterleave.vi"/>
@@ -201,8 +203,8 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../UDP packet capture/Builds/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/temp icon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{4568AF55-17BF-4289-A431-BC25759AC17A}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/UDPIcon.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{0810E14B-EC59-481D-9AAE-F5437507B423}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/udp read.vi</Property>
