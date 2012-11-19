@@ -217,7 +217,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">USGS-CRRL</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">File Archive and FTP (build 4.0)</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">6</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">11</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">4</Property>
 				<Property Name="TgtF_internalName" Type="Str">File Archive and FTP (build 4.0)</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2011 USGS-CRRL</Property>
@@ -254,7 +254,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">File Archive and FTP Handler (build 4.0) installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{8A96E9B2-684B-474E-8E96-C0FB9172A5D3}</Property>
 				<Property Name="INST_productName" Type="Str">File Archive and FTP  Management software</Property>
-				<Property Name="INST_productVersion" Type="Str">3.1.11</Property>
+				<Property Name="INST_productVersion" Type="Str">3.1.17</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">11008029</Property>
 				<Property Name="MSI_arpCompany" Type="Str">USGS-CRRL</Property>
@@ -297,11 +297,6 @@
 				<Property Name="Source[0].name" Type="Str">File Archive and FTP (build 4.0)</Property>
 				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/File Archive and FTP (build 4.0)</Property>
 				<Property Name="Source[0].type" Type="Str">EXE</Property>
-				<Property Name="Source[1].dest" Type="Str">{42B2481B-D92B-410C-A133-ECE0EE4BFDF4}</Property>
-				<Property Name="Source[1].name" Type="Str">File Archive and FTP.BINI</Property>
-				<Property Name="Source[1].tag" Type="Ref">/My Computer/File Archive and FTP.BINI</Property>
-				<Property Name="Source[1].type" Type="Str">File</Property>
-				<Property Name="Source[1].unlock" Type="Bool">true</Property>
 				<Property Name="Source[4].dest" Type="Str">{8A96E9B2-684B-474E-8E96-C0FB9172A5D3}</Property>
 				<Property Name="Source[4].File[0].dest" Type="Str">{42B2481B-D92B-410C-A133-ECE0EE4BFDF4}</Property>
 				<Property Name="Source[4].File[0].name" Type="Str">Node Archive and FTP file handle.exe</Property>
@@ -326,7 +321,7 @@
 				<Property Name="Source[7].name" Type="Str">themedata.thmx</Property>
 				<Property Name="Source[7].tag" Type="Ref"></Property>
 				<Property Name="Source[7].type" Type="Str">File</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="SourceCount" Type="Int">1</Property>
 			</Item>
 		</Item>
 	</Item>
