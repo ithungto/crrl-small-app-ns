@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="11008008">
+<Project Type="Project" LVVersion="12008004">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -113,8 +113,7 @@
 			</Item>
 			<Item Name="Elapsed Timer (seconds).vi" Type="VI" URL="../Elapsed Timer (seconds).vi"/>
 			<Item Name="hours between scans.vi" Type="VI" URL="../../GPS String Capture Software/hours between scans.vi"/>
-			<Item Name="lvanlys.dll" Type="Document" URL="/C/Program Files/National Instruments/LabVIEW 2011/resource/lvanlys.dll"/>
-			<Item Name="lvsound2.dll" Type="Document" URL="/C/Program Files/National Instruments/LabVIEW 2011/resource/lvsound2.dll"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="NewNI_SMTPEmail.lvlib" Type="Library" URL="../../Archive and FTP Software/NewNI_SMTPEmail.lvlib"/>
 			<Item Name="Online Status through Ping.vi" Type="VI" URL="../../Archive and FTP Software/SubVIs/Online Status through Ping.vi"/>
 			<Item Name="Ping address and email notify.ctl" Type="VI" URL="../../Archive and FTP Software/Controls/Ping address and email notify.ctl"/>
@@ -133,9 +132,9 @@
 				<Property Name="Destination[0].unlock" Type="Bool">true</Property>
 				<Property Name="DestinationCount" Type="Int">1</Property>
 				<Property Name="DistPart[0].flavorID" Type="Str">DefaultFull</Property>
-				<Property Name="DistPart[0].productID" Type="Str">{066F687E-1CA0-4D94-A2C9-F8E6E817F4CB}</Property>
-				<Property Name="DistPart[0].productName" Type="Str">NI LabVIEW Run-Time Engine 2011</Property>
-				<Property Name="DistPart[0].upgradeCode" Type="Str">{6AD6C111-233B-4924-A3BF-E4813FE23C7A}</Property>
+				<Property Name="DistPart[0].productID" Type="Str">{7155545E-A9C3-459F-BFC8-F80D3FB6E4DC}</Property>
+				<Property Name="DistPart[0].productName" Type="Str">NI LabVIEW Run-Time Engine 2012 (64-bit)</Property>
+				<Property Name="DistPart[0].upgradeCode" Type="Str">{269F9CD8-8F1B-4D94-87F5-43A68937DD3A}</Property>
 				<Property Name="DistPartCount" Type="Int">1</Property>
 				<Property Name="INST_author" Type="Str">3d</Property>
 				<Property Name="INST_buildLocation" Type="Path">../UDP packet capture/builds</Property>
@@ -144,8 +143,8 @@
 				<Property Name="INST_defaultDir" Type="Str">{5091DB55-2C83-43A4-8104-B1B791615A58}</Property>
 				<Property Name="INST_productName" Type="Str">UDP Packet Capture software</Property>
 				<Property Name="INST_productVersion" Type="Str">2.0.0</Property>
-				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
-				<Property Name="InstSpecVersion" Type="Str">11008029</Property>
+				<Property Name="InstSpecBitness" Type="Str">64-bit</Property>
+				<Property Name="InstSpecVersion" Type="Str">12008024</Property>
 				<Property Name="MSI_arpCompany" Type="Str">3d</Property>
 				<Property Name="MSI_arpURL" Type="Str">http://www.3d.com/</Property>
 				<Property Name="MSI_distID" Type="Str">{933B9328-7FB6-4994-8909-691A44A30194}</Property>
